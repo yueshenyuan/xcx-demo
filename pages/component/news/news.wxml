@@ -1,0 +1,111 @@
+<!--pages/component/news/news.wxml-->
+<view class='container'>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail" hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail" hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail" hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail"  hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail"  hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+  <view>
+    <view class='wrap'>
+      <navigator class="link" url="./detail"  hover-class="other-navigator-hover">
+        <view>
+          <view class='image'>
+            <image src="https://inews.gtimg.com/newsapp_ls/0/2495125553_294195/0"></image>
+          </view>
+          <view class='title'>
+            <view class='title-inner'>叶挺之子逝世 毛主席周总理曾为他题词</view>
+          </view>  
+          <view class='info'>
+            <text>1小时前</text>
+            <text class='last'>24评论</text>
+          </view>
+        </view>
+      </navigator>
+    </view>
+  </view>
+</view>

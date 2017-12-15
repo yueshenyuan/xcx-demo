@@ -1,0 +1,29 @@
+/* pages/component/news/detail.wxss */
+.content{
+  padding: 0 26rpx;
+}
+.meta{
+    font-size: 24rpx;
+    color: #888888;
+    line-height: 36rpx;
+    overflow: hidden;
+    margin-bottom: 12px;
+}
+.title{
+  font-size: 40rpx;
+  color: #111;
+  padding: 18px 0 11px;
+  line-height: 31px;
+  font-weight: 700;
+}
+image{
+  width: 100%;
+}
+.text{
+    line-height: 30rpx;
+    word-wrap: break-word;
+    margin-bottom: 32rpx;
+    text-align: justify;
+    word-break: break-all;
+    font-size: 30rpx;
+}
