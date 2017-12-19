@@ -63,5 +63,30 @@ Page({
     wx.makePhoneCall({
       phoneNumber: this.data.phone //仅为示例，并非真实的电话号码
     })
+  },
+  scanCode: function(e){
+    // 允许从相机和相册扫码
+    wx.scanCode({
+      success: (res) => {
+        wx.showModal({  
+            title: '扫码内容',  
+            content: res.result,
+            showCancel: false,  
+            success: function(res) {  
+                if (res.confirm) {  
+                console.log('用户点击确定')  
+                } else if (res.cancel) {  
+                console.log('用户点击取消')  
+                }  
+            }
+        });
+      },
+      fail: ()=>{
+        wx.showToast({
+           title: '扫码失败',
+           duration: 2000
+        })
+      }
+    })
   }
 })

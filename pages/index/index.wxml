@@ -12,5 +12,15 @@
       <input type='number' bindinput="telInput" placeholder="输入电话号码"></input>
       <button bindtap="telPhone">拨打</button>
     </view>
+    <view class="li">
+      <navigator class="link" url="../component/payment/payment" hover-class="other-navigator-hover">
+        <text class="payment">微信支付</text>
+      </navigator>
+    </view>
+    <view class="li">
+      <view>
+        <text bindtap="scanCode" class="payment">扫一扫</text>
+      </view>
+    </view>
   </view>
 </view>

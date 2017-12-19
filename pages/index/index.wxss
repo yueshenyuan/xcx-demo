@@ -27,12 +27,20 @@
   padding: 0 20rpx;
   box-sizing: border-box;
 }
+.apis .li{
+  padding: 0 10px;
+  margin:10px 0;
+  font-size:18px;
+}
+.apis .payment{
+  color: #62b900;
+}
 .apis .tel{
   display: flex;
 }
 .apis .tel input{
   flex: 4;
-  margin: 0 10px;
+  margin-right: 10px;
   font-size:14px;
   padding:0 10px;
   height: 32px;

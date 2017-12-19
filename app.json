@@ -3,6 +3,7 @@
     "pages/index/index",
     "pages/component/news/news",
     "pages/component/news/detail",
+    "pages/component/payment/payment",
     "pages/logs/logs"
   ],
   "window":{
